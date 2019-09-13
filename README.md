@@ -6,6 +6,10 @@ Demo: http://albumy.helloflask.com
 
 ![Screenshot](http://helloflask.com/screenshots/albumy.png)
 
+## ORIYAO 修改
+Initial 2019/9/13
+
+
 ## Installation
 
 ```
