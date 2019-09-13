@@ -4,8 +4,7 @@
 
 Demo: http://albumy.helloflask.com
 
-![Screenshot](http://helloflask.com/screenshots/albumy.png)
-
+![Screenshot](http://www.z00290969.xyz:1980/share/iPuXOEgC)
 ## Installation
 
 ```
